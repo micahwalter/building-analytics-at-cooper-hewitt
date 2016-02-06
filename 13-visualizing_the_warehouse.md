@@ -26,6 +26,9 @@ Diagram 10
 
 **Collected Objects By Department** - Here, CHSDM staff have grouped collected objects by Department as seen in the Diagram 11. Since the warehouse joined this data with collection data, it's possible to read the full text description of each department within the report.
 
+![Diagram 11](images/diagram-11.png)
+Diagram 11
+
 
 
 
