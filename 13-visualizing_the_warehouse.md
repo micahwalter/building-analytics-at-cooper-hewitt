@@ -34,5 +34,10 @@ Diagram 11
 ![Diagram 12](images/diagram-12.png)
 Diagram 12
 
+Below is the simple SQL required to make this query in Redshift via Mode.
+
+![Diagram 13](images/diagram-13.png)
+Diagram 13
+
 
 
