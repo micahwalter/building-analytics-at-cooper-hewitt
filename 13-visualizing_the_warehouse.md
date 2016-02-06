@@ -12,3 +12,4 @@ There are a number of off-the-shelf solutions for working with data in a warehou
 
 Below is a series of diagrams illustrating some of the reports CHSDM have generated using Mode, connected to its RedShift cluster on AWS. These are mainly first efforts and prototypes, but they illustrate the scenario CHSDM is trying to achieve.
 
+![Diagram 09](image/diagram-09.png)
