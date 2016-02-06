@@ -8,5 +8,5 @@
 * [Foreign Keys](05-foreign_keys.md)
 * [Log Files](06-log_files.md)
 * [Logstash](07-logstash.md)
-* [Monitoring & Notifications](08-monitoring_&_notifications.md)
+* [Monitoring & Notifications](08-monitoring_and_notifications.md)
 
