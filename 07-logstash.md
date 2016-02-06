@@ -27,6 +27,8 @@ Diagram 05
 
 Pictured in Diagram 05 is a series of useful administration charts. In these charts CHSDM staff can see data having to do with objects being collected each day. Staff members can see in the top graph, objects collected and created overall by day. Below, data is broken out into “collected with the Pen” and “collected at the tables.” 
 
+![Diagram 06](images/diagram-06.png)
 
+Pictured in Diagram 06, CHSDM staff are able to look at objects collected by hour. In this example staff can see that on January 16th, at 20:00 UTC (3pm in NYC) visitors used their pens to collect and save 4772 objects. Studying the diagram closely, staff can see that the next day, on the 17th at 19:00 UTC (2pm in NYC) the museum had its daily peak. It is possible that this was the busiest time during these two days, explaining the peak, but it allows CHSDM staff to start asking questions. For example, why is this the busiest time? Do these peaks correspond to ticket sales? As illustrated here, CHSDM log files are starting to give its staff insight into its visitor's behavior.
 
 
