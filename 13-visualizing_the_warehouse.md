@@ -52,3 +52,9 @@ Diagram 16
 
 Finally, the following diagrams (Diagrams 17 and 18) illustrate some of the benefits of using a product like Mode. Here one can see it is possible to easily share reports with other staff members and create a “portfolio” of reports for easy access and sharing between staff.
 
+![Diagram 17](images/diagram-17.png)
+Diagram 17
+
+![Diagram 18](images/diagram-18.png)
+Diagram 18
+
