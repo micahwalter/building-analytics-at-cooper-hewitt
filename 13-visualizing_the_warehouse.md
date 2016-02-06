@@ -19,9 +19,11 @@ Diagram 09
 
 Pictured in the Diagram 09 is how Mode can simply generate a table of data. This data can easily be exported to a CSV file or Excel spreadsheet.
 
-Below is the SQL used to generate this report. It’s pretty straightforward, but the main point is the INNER JOIN on collection_objects and “q” which in this case refers to collection_visits_items. Within our current topology, these two tables are stored in different databases, making a simple join like this impossible.
+Below, pictured in Diagram 10, is the SQL used to generate this report. It’s pretty straightforward, but the main point is the INNER JOIN on collection_objects and “q” which in this case refers to collection_visits_items. Within our current topology, these two tables are stored in different databases, making a simple join like this impossible.
 
 ![Diagram 10](images/diagram-10.png)
 Diagram 10
+
+**Collected Objects By Department** - Here we start to slice up the Pen Data a little further. We can group collected objects by things like Department as seen in the diagram below. Since we’ve joined this data with our collection data, we can see the full text description of each department right in the report.
 
 
