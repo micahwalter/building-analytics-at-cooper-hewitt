@@ -17,4 +17,4 @@ Below is a series of diagrams of example log pages. CHSDM have built in graphic 
 
 **Administration Diagrams**
 
-
+![](images/diagram-03.png)
