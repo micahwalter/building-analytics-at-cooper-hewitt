@@ -16,4 +16,5 @@
 * [Visualizing the Warehouse](13-visualizing_the_warehouse.md)
 * [Further Experimentation](14-further_experimentation.md)
 * [Conclusions](15-conclusions.md)
+* References
 
