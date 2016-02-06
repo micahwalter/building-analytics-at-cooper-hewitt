@@ -7,3 +7,4 @@
 5. Near Field Communication - Wikipedia ( https://en.wikipedia.org/wiki/Near_field_communication )
 6. Payment Card Industry standard - Wikipedia ( https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard )
 7. bcrypt - Wikipedia ( https://en.wikipedia.org/wiki/Bcrypt )
+8. 
