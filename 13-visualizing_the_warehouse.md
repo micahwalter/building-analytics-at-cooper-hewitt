@@ -39,8 +39,13 @@ Below is the simple SQL required to make this query in Redshift via Mode.
 ![Diagram 13](images/diagram-13.png)
 Diagram 13
 
-**Digital Creations** - Lastly CHSDM have created a report having to do with Digital Creations, or the things its visitors have created using the interactive tables. This report only uses the data stored in the Pen database but one can see how CHSDM used simple SQL to modify the report right in Mode so it has labels on the axis and skips unnecessary items.
+**Digital Creations** - Lastly, CHSDM have created a report having to do with Digital Creations, or the things its visitors have created using the interactive tables. This report only uses the data stored in the Pen database but one can see how CHSDM used simple SQL to modify the report right in Mode so it has labels on the axis and skips unnecessary items.
 
+![Diagram 14](images/diagram-14.png)
+Diagram 14
 
+![Diagram 15](images/diagram-15.png)
+Diagram 15
 
-
+![Diagram 16](images/diagram-16.png)
+Diagram 16
