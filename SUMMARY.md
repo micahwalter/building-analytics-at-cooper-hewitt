@@ -11,4 +11,5 @@
 * [Monitoring & Notifications](08-monitoring_and_notifications.md)
 * [Re-play & Failing Gracefully](09-re-play_and_failing_gracefully.md)
 * [Constituent Relationship Management](10-constituent_relationship_management.md)
+* Building the Warehouse
 
