@@ -11,8 +11,9 @@ The first message, which is collapsed in Diagram 01, is the “pen-return” log
 
 At the digital tables, a [Near Field Communication](https://en.wikipedia.org/wiki/Near_field_communication) (NFC) reader board, downloads all the data off the visitor’s Pen. This data is then formatted and sent to the Pen API which processes the data and stores it before responding by displaying the items that the visitor collected on the screen in front of them. This operation invokes several log messages, recording every step in the process. If something were to go wrong during one of these steps, CHSDM staff would be able to see an error message like the one in Diagram 02, which would allow CHSDM staff to diagnose the problem with the underlying system. 
 
-In this case, the API responded with an “invalid user” error. This was probably a configuration problem with one of the underlying systems. A log like this can be used as a really good way to diagnose issues like this one, and the ability for CHSDM staff to look at this data, from within an administration panel makes it possible for CHSDM staff to quickly resolve these kinds of problems.
+In this case, the API responded with an “invalid user” error. This was probably a configuration problem with one of the underlying systems. A log like this can be used to diagnose issues like this one, and the ability for CHSDM staff to look at this data, from within an administration panel makes it possible for CHSDM staff to quickly resolve these kinds of problems.
 
-
+![](images/diagram-02.png)
+Diagram 02
 
 
