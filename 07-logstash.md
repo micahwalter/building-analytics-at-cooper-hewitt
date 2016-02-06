@@ -14,3 +14,7 @@ Logstash comes packaged with an application known as [Kibana](https://www.elasti
 However, CHSDM eventually found Kibana a little limited in what it could do. It also became troublesome to expose Kibana on the public Internet, allowing CHSDM staff to log in from anywhere to investigate a problem. So that CHSDM staff could take control over how it analyzes and accesses its logs, CHSDM staff decided to begin building administration pages that would allow one to view the data stored in its Logstash generated, ElasticSearch dataset.
 
 Below is a series of diagrams of example log pages. CHSDM have built in graphic functions to provide a simple data visualization of what has been happening over time. CHSDM staff plan to expand the facility of these administration pages in future iterations.
+
+**Administration Diagrams**
+
+
