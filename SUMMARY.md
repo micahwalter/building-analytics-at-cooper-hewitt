@@ -15,4 +15,5 @@
 * [Data Transfer and Ingestion](12-data_transfer_and_ingestion.md)
 * [Visualizing the Warehouse](13-visualizing_the_warehouse.md)
 * [Further Experimentation](14-further_experimentation.md)
+* Conclusions
 
