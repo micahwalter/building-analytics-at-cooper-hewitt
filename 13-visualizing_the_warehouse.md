@@ -24,6 +24,8 @@ Below, pictured in Diagram 10, is the SQL used to generate this report. It’s p
 ![Diagram 10](images/diagram-10.png)
 Diagram 10
 
-**Collected Objects By Department** - Here we start to slice up the Pen Data a little further. We can group collected objects by things like Department as seen in the diagram below. Since we’ve joined this data with our collection data, we can see the full text description of each department right in the report.
+**Collected Objects By Department** - Here, CHSDM staff have grouped collected objects by Department as seen in the Diagram 11. Since the warehouse joined this data with collection data, it's possible to read the full text description of each department within the report.
+
+
 
 
