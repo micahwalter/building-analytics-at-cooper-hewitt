@@ -13,4 +13,5 @@
 * [Constituent Relationship Management](10-constituent_relationship_management.md)
 * [Building the Warehouse](11-building_the_warehouse.md)
 * [Data Transfer and Ingestion](12-data_transfer_and_ingestion.md)
+* Visualizing the Warehouse
 
