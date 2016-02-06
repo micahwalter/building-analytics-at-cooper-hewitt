@@ -9,6 +9,7 @@ Instead of issuing an error, we simply write the log message to disk, and allow 
 As you might imagine, this doesn’t always play out as well as it sounds. For example, in this scenario, if the visitor’s pen was not successfully paired with their ticket and they went to visit their personal website, they wouldn’t see any of the things they’d collected during their visit. The idea here is that this will eventually become available to them, ideally before they check, but in any case, at some point in the future.
 
 ![Diagram 07](images/diagram-07.png)
+Diagram 07
 
 The diagram above illustrates what this might mean. In this example we can see that a Pen was used to collect object 18383769. If the visitor got home and didn’t see this object on their website as expected, they would hopefully send us an email explaining their issues. Because we have a log of this event taking place, we are able to easily press the “Re-Play This Activity” button, which would re-process this event, thus allowing the visitor to see the expected result.
 
