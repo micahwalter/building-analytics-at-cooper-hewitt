@@ -31,7 +31,8 @@ Diagram 11
 
 **Collected Objects By Country** - Here is another report based on the same data and joined with the collection data. In this case CHSDM are able to group the collected objects by their country of origin. This type of report can be revealing, and helps CHSDM staff to see how its visitor behavior, combined with its curatorial voice start to play out and display bias towards one thing or another. 
 
-
+![Diagram 12](images/diagram-12.png)
+Diagram 12
 
 
 
