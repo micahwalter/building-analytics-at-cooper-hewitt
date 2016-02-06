@@ -22,5 +22,6 @@ Diagram 04
 
 Pictured in Diagram 04 are two graphs representing “visits.” The top graph is “visits by day” where the green line represents the past 28 days, and the blue represents the 28 days prior. Pictured below are visits by hour. With this simple diagnostic tool CHSDM staff can easily see which days and times are the most active in the galleries.
 
+![](images/diagram-05.png)
 
 
