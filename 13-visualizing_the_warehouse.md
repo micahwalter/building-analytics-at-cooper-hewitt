@@ -7,7 +7,7 @@ However, it’s pretty easy to see that writing SQL on the command line and maki
 There are a number of off-the-shelf solutions for working with data in a warehouse like Redshift. CHSDM have taken a close look at many of them.
 
 1. [Periscope](http://periscope.io) is a powerful set of business intelligence tools that can connect to a wide variety of data sources including Redshift. It allows you to build SQL based queries through a web interface and chart results using a series of customizable charts types. The reports can be shared with colleagues and easily updated to reflect live data.
-2. [Chart.io](http://chart.io) is very similar to Persicope. 
+2. [Chart.io](http://chart.io) is very similar to Persicope.
 3. [ModeAnalytics.com](http://modeanalytics.com) is also very similar to Periscope and Chart.io but a little more simplistic and much less expensive. After a trial period CHSDM found Mode to do most of what they wanted to accomplish. The main feature CHSDM were interested in, being able to design an SQL statement and then export the results to Excel, seemed to work perfectly out of the box.
 
 Below is a series of diagrams illustrating some of the reports CHSDM have generated using Mode, connected to its RedShift cluster on AWS. These are mainly first efforts and prototypes, but they illustrate the scenario CHSDM is trying to achieve.
@@ -29,7 +29,7 @@ Diagram 10
 ![Diagram 11](images/diagram-11.png)
 Diagram 11
 
-**Collected Objects By Country** - Here is another report based on the same data and joined with the collection data. In this case CHSDM are able to group the collected objects by their country of origin. This type of report can be revealing, and helps CHSDM staff to see how its visitor behavior, combined with its curatorial voice start to play out and display bias towards one thing or another. 
+**Collected Objects By Country** - Here is another report based on the same data and joined with the collection data. In this case CHSDM are able to group the collected objects by their country of origin. This type of report can be revealing, and helps CHSDM staff to see how its visitor behavior, combined with its curatorial voice start to play out and display bias towards one thing or another.
 
 ![Diagram 12](images/diagram-12.png)
 Diagram 12
@@ -57,4 +57,3 @@ Diagram 17
 
 ![Diagram 18](images/diagram-18.png)
 Diagram 18
-

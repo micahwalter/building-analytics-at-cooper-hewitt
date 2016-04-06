@@ -3,7 +3,7 @@
 CHSDM experienced difficulty in getting all of its data into Redhsift, getting it there safely and securely and getting it there periodically. Amazon offers a number of tools and tutorials to make this part easier, but this has been one of the biggest hurdles to overcome with using this type of system so far.
 
 The steps are:
-	
+
 1. Identify the data source
 2. Map the data source to a Redshift compatible schema
 3. Export the data to a CSV file
@@ -20,7 +20,3 @@ Pictured in Diagram 08 is an early prototype of a shell script for doing the ste
 CHSDM staff have been experimenting with one-directional hashing of values such as user ids and personal information using [bcrypt](https://en.wikipedia.org/wiki/Bcrypt) and other cryptographic techniques. These techniques work but they can be resource intensive.
 
 Getting all the above setup is tedious and is still largely a work in progress at CHSDM.
-
-
-
-
